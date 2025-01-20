@@ -29,7 +29,7 @@ Here is the [original plot by The Economist](https://www.economist.com/graphic-d
 
 And here is my recreation using `ggplot2`:
 
-![My Recreation Plot](MyRecreation.png)
+![My Recreation Plot](Myrecreationv2.png)
 
 ## Code
 The R script is structured for easy replication of the analysis. Users can modify the code to extend the analysis to other years or datasets.
